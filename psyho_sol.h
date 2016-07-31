@@ -1,8 +1,3 @@
-// Author: Psyho
-// Blog: http://psyho.gg/
-// Twitter: https://twitter.com/fakepsyho
-
-
 const int TRAIN_AUGMENTS = 200;
 const int TEST_AUGMENTS = 200;
 const bool USE_CUSTOMER_PREDICTIONS = false;
